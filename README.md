@@ -1,2 +1,2 @@
 # Starbucks
-Projeto Starbucks usando Html e Css3
+Projeto simples Starbucks usando Html e Css3
